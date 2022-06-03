@@ -134,7 +134,7 @@ GenerateClassCluster=0
 DocumentUniqueId=OTLGAPVA
 
 [Document6]
-DocumentPath=LEDcircuits_InputV&PhaseV.SchDoc
+DocumentPath=LEDcircuits_PhaseV.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -185,16 +185,16 @@ GenerateClassCluster=0
 DocumentUniqueId=BLGRQYQH
 
 [Parameter1]
-Name=Website
-Value=www.ultrazohm.com
+Name=AuthorParam
+Value=N. Diringer
 
 [Parameter2]
 Name=ProjectRevision
 Value=1.0
 
 [Parameter3]
-Name=AuthorParam
-Value=N. Diringer
+Name=Website
+Value=www.ultrazohm.com
 
 [Configuration1]
 Name=Sources
