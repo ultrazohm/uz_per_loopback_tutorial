@@ -184,6 +184,18 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BLGRQYQH
 
+[ProjectVariant1]
+UniqueID=5FBAF5C9-1BED-4F6B-ADC2-4217D0120059
+Description=Variant of UZ_PER_loopback_tutorial
+AllowFabrication=0
+ParameterCount=0
+VariationCount=4
+Variation1=Designator=LEDs2_R10|UniqueId=\2SCQOLNKU\HKEZZUIO|Kind=0|AlternatePart= 
+Variation2=Designator=LEDs2_T5|UniqueId=\2SCQOLNKU\TNBDZQJB|Kind=0|AlternatePart= 
+Variation3=Designator=LEDs2_R9|UniqueId=\2SCQOLNKU\DJIEAIUF|Kind=0|AlternatePart= 
+Variation4=Designator=LEDs2_D5|UniqueId=\2SCQOLNKU\BMLTJPKT|Kind=0|AlternatePart= 
+ParamVariationCount=0
+
 [Parameter1]
 Name=AuthorParam
 Value=N. Diringer
