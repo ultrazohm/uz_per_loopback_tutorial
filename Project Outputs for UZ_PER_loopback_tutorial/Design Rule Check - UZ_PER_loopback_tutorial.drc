@@ -1,0 +1,177 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Nina Diringer\repos\uz_per_loopback_tutorial\UZ_PER_loopback_tutorial.PcbDoc
+Date     : 02.08.2022
+Time     : 10:32:25
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.203mm) (OnLayer('Top Layer')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.203mm) (OnLayer('Bottom Layer')),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.089mm) (Max=2.54mm) (Preferred=0.381mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.076mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.2mm) (Max=6.3mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.1mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.05mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Room LED7 (Bounding Region = (70.224mm, 84.983mm, 77.024mm, 97.983mm) (InComponentClass('LED7'))
+Rule Violations :0
+
+Processing Rule : Room LED8 (Bounding Region = (66.599mm, 93.108mm, 73.399mm, 106.108mm) (InComponentClass('LED8'))
+Rule Violations :0
+
+Processing Rule : Room LED_G7 (Bounding Region = (42.625mm, 32.725mm, 49.9mm, 45.525mm) (InComponentClass('LED_G7'))
+Rule Violations :0
+
+Processing Rule : Room LED_G9 (Bounding Region = (50.725mm, 32.725mm, 58.15mm, 45.525mm) (InComponentClass('LED_G9'))
+Rule Violations :0
+
+Processing Rule : Room LED5 (Bounding Region = (76.999mm, 84.983mm, 83.799mm, 97.983mm) (InComponentClass('LED5'))
+Rule Violations :0
+
+Processing Rule : Room LED1 (Bounding Region = (90.749mm, 84.983mm, 97.549mm, 97.983mm) (InComponentClass('LED1'))
+Rule Violations :0
+
+Processing Rule : Room LED_G11 (Bounding Region = (58.853mm, 32.725mm, 66.325mm, 45.525mm) (InComponentClass('LED_G11'))
+Rule Violations :0
+
+Processing Rule : Room LED_G10 (Bounding Region = (50.722mm, 40.05mm, 57.975mm, 53.45mm) (InComponentClass('LED_G10'))
+Rule Violations :0
+
+Processing Rule : Room LED_G8 (Bounding Region = (42.622mm, 40.05mm, 50.05mm, 53.45mm) (InComponentClass('LED_G8'))
+Rule Violations :0
+
+Processing Rule : Room LED_G6 (Bounding Region = (34.6mm, 40.125mm, 41.825mm, 53.45mm) (InComponentClass('LED_G6'))
+Rule Violations :0
+
+Processing Rule : Room LED_G12 (Bounding Region = (58.775mm, 40.05mm, 66.3mm, 53.4mm) (InComponentClass('LED_G12'))
+Rule Violations :0
+
+Processing Rule : Room LED3 (Bounding Region = (83.874mm, 84.983mm, 90.674mm, 97.983mm) (InComponentClass('LED3'))
+Rule Violations :0
+
+Processing Rule : Room LED10 (Bounding Region = (63.238mm, 70.273mm, 70.038mm, 83.273mm) (InComponentClass('LED10'))
+Rule Violations :0
+
+Processing Rule : Room LED12 (Bounding Region = (70.11mm, 70.273mm, 76.91mm, 83.273mm) (InComponentClass('LED12'))
+Rule Violations :0
+
+Processing Rule : Room LED_G2 (Bounding Region = (18.491mm, 39.425mm, 26.1mm, 53.45mm) (InComponentClass('LED_G2'))
+Rule Violations :0
+
+Processing Rule : Room LED9 (Bounding Region = (63.374mm, 84.983mm, 70.174mm, 97.983mm) (InComponentClass('LED9'))
+Rule Violations :0
+
+Processing Rule : Room LED14 (Bounding Region = (76.981mm, 70.273mm, 83.781mm, 83.273mm) (InComponentClass('LED14'))
+Rule Violations :0
+
+Processing Rule : Room LED11 (Bounding Region = (66.874mm, 62.383mm, 73.674mm, 75.383mm) (InComponentClass('LED11'))
+Rule Violations :0
+
+Processing Rule : Room LED13 (Bounding Region = (73.716mm, 62.383mm, 80.516mm, 75.383mm) (InComponentClass('LED13'))
+Rule Violations :0
+
+Processing Rule : Room LED16 (Bounding Region = (83.853mm, 70.273mm, 90.653mm, 83.273mm) (InComponentClass('LED16'))
+Rule Violations :0
+
+Processing Rule : Room LED18 (Bounding Region = (90.724mm, 70.273mm, 97.524mm, 83.273mm) (InComponentClass('LED18'))
+Rule Violations :0
+
+Processing Rule : Room LPF1 (Bounding Region = (67.85mm, 35.194mm, 73.65mm, 41.394mm) (InComponentClass('LPF1'))
+Rule Violations :0
+
+Processing Rule : Room Ethernet_Connector (Bounding Region = (95.6mm, 31mm, 116mm, 69mm) (InComponentClass('Ethernet_Connector'))
+Rule Violations :0
+
+Processing Rule : Room LPF2 (Bounding Region = (74.757mm, 35.194mm, 80.557mm, 41.394mm) (InComponentClass('LPF2'))
+Rule Violations :0
+
+Processing Rule : Room LPF4 (Bounding Region = (88.57mm, 35.194mm, 94.37mm, 41.394mm) (InComponentClass('LPF4'))
+Rule Violations :0
+
+Processing Rule : Room LPF3 (Bounding Region = (81.663mm, 35.194mm, 87.463mm, 41.394mm) (InComponentClass('LPF3'))
+Rule Violations :0
+
+Processing Rule : Room LED4 (Bounding Region = (80.424mm, 93.108mm, 87.224mm, 106.108mm) (InComponentClass('LED4'))
+Rule Violations :0
+
+Processing Rule : Room LED6 (Bounding Region = (73.499mm, 93.108mm, 80.299mm, 106.108mm) (InComponentClass('LED6'))
+Rule Violations :0
+
+Processing Rule : Room LED2 (Bounding Region = (87.324mm, 93.108mm, 94.124mm, 106.108mm) (InComponentClass('LED2'))
+Rule Violations :0
+
+Processing Rule : Room LED15 (Bounding Region = (80.557mm, 62.383mm, 87.357mm, 75.383mm) (InComponentClass('LED15'))
+Rule Violations :0
+
+Processing Rule : Room LED17 (Bounding Region = (87.399mm, 62.383mm, 94.199mm, 75.383mm) (InComponentClass('LED17'))
+Rule Violations :0
+
+Processing Rule : Room LED_G4 (Bounding Region = (26.525mm, 39.925mm, 34.1mm, 53.45mm) (InComponentClass('LED_G4'))
+Rule Violations :0
+
+Processing Rule : Room LED_G5 (Bounding Region = (34.592mm, 32.725mm, 41.775mm, 45.525mm) (InComponentClass('LED_G5'))
+Rule Violations :0
+
+Processing Rule : Room LED_G1 (Bounding Region = (18.5mm, 32.75mm, 25.3mm, 45.55mm) (InComponentClass('LED_G1'))
+Rule Violations :0
+
+Processing Rule : Room LED_G3 (Bounding Region = (26.525mm, 32.75mm, 33.85mm, 45.55mm) (InComponentClass('LED_G3'))
+Rule Violations :0
+
+Processing Rule : Room LPF5 (Bounding Region = (67.856mm, 44.124mm, 73.656mm, 50.324mm) (InComponentClass('LPF5'))
+Rule Violations :0
+
+Processing Rule : Room LPF8 (Bounding Region = (88.542mm, 44.05mm, 94.342mm, 50.25mm) (InComponentClass('LPF8'))
+Rule Violations :0
+
+Processing Rule : Room LPF7 (Bounding Region = (81.647mm, 44.124mm, 87.447mm, 50.324mm) (InComponentClass('LPF7'))
+Rule Violations :0
+
+Processing Rule : Room LPF6 (Bounding Region = (74.752mm, 44.124mm, 80.552mm, 50.324mm) (InComponentClass('LPF6'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Waived Violations : 0
+Time Elapsed        : 00:00:01
