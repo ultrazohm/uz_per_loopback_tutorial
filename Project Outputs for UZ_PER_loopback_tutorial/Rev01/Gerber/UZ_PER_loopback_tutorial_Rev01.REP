@@ -2,24 +2,25 @@
 FileName = UZ_PER_loopback_tutorial_Rev01.GBR
 AutoAperture = True
 *************************************************************
-Generating : Board Outline
-      File : UZ_PER_loopback_tutorial_Rev01.GM1
+Generating : Top Paste
+      File : UZ_PER_loopback_tutorial_Rev01.GTP
 
-    Adding Layer      : Board Outline
+    Adding Layer      : Top Paste
 
+    Adding Layer      : Top Layer
 
-Used DCodes :
-    D15
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : UZ_PER_loopback_tutorial_Rev01.GBO
-
-    Adding Layer      : Bottom Overlay
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
 *************************************************************
 
 *************************************************************
@@ -37,10 +38,41 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Solder
-      File : UZ_PER_loopback_tutorial_Rev01.GBS
+Generating : Top Layer
+      File : UZ_PER_loopback_tutorial_Rev01.GTL
 
-    Adding Layer      : Bottom Solder
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : UZ_PER_loopback_tutorial_Rev01.GBL
 
     Adding Layer      : Bottom Layer
 
@@ -48,15 +80,29 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
+    D15
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+*************************************************************
+
+*************************************************************
+Generating : Board Outline
+      File : UZ_PER_loopback_tutorial_Rev01.GM1
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D15
 *************************************************************
 
 *************************************************************
@@ -91,25 +137,26 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Paste
-      File : UZ_PER_loopback_tutorial_Rev01.GTP
+Generating : Bottom Solder
+      File : UZ_PER_loopback_tutorial_Rev01.GBS
 
-    Adding Layer      : Top Paste
+    Adding Layer      : Bottom Solder
 
-    Adding Layer      : Top Layer
+    Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
 *************************************************************
 
 *************************************************************
@@ -132,59 +179,12 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Layer
-      File : UZ_PER_loopback_tutorial_Rev01.GBL
+Generating : Bottom Overlay
+      File : UZ_PER_loopback_tutorial_Rev01.GBO
 
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Bottom Overlay
 
 
 Used DCodes :
-    D15
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : UZ_PER_loopback_tutorial_Rev01.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D15
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
 *************************************************************
 
