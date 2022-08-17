@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: UZ_PER_loopback_tutorial.PcbDoc   17.08.2022  09:55:05
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : UZ_PER_loopback_tutorial_Rev01.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             49        PTH        19.59inch (497.56mm)
+T2      14mil (0.351mm)                                           Round             83        PTH        31.84inch (808.74mm)
+T3      35mil (0.899mm)                                           Round             16        PTH        1.66inch (42.21mm)
+T4      40mil (1.021mm)                                           Round             110       PTH        14.40inch (365.67mm)
+T5      63mil (1.6mm)                                             Round             2         PTH        1.26inch (32.00mm)
+T6      128mil (3.251mm)                                          Round             2         NPTH       1.12inch (28.45mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              262
+
+Total Processing Time (hh:mm:ss) : 00:00:00
