@@ -134,7 +134,7 @@ GenerateClassCluster=0
 DocumentUniqueId=OTLGAPVA
 
 [Document6]
-DocumentPath=LEDcircuits_PhaseV.SchDoc
+DocumentPath=LEDcircuits_PWM.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
