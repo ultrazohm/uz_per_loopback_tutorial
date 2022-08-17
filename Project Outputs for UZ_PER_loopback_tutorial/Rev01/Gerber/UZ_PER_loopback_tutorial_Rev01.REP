@@ -2,6 +2,83 @@
 FileName = UZ_PER_loopback_tutorial_Rev01.GBR
 AutoAperture = True
 *************************************************************
+Generating : Board Outline
+      File : UZ_PER_loopback_tutorial_Rev01.GM1
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : UZ_PER_loopback_tutorial_Rev01.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : UZ_PER_loopback_tutorial_Rev01.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : UZ_PER_loopback_tutorial_Rev01.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+*************************************************************
+
+*************************************************************
+Generating : Layer 3
+      File : UZ_PER_loopback_tutorial_Rev01.G2
+
+    Adding Layer      : Layer 3
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D44
+    D46
+    D48
+    D49
+    D51
+    D52
+    D54
+    D55
+    D56
+*************************************************************
+
+*************************************************************
 Generating : Top Paste
       File : UZ_PER_loopback_tutorial_Rev01.GTP
 
@@ -24,17 +101,22 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Paste
-      File : UZ_PER_loopback_tutorial_Rev01.GBP
+Generating : Top Overlay
+      File : UZ_PER_loopback_tutorial_Rev01.GTO
 
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Top Overlay
 
 
 Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
 *************************************************************
 
 *************************************************************
@@ -71,41 +153,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Layer
-      File : UZ_PER_loopback_tutorial_Rev01.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D15
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-*************************************************************
-
-*************************************************************
-Generating : Board Outline
-      File : UZ_PER_loopback_tutorial_Rev01.GM1
-
-    Adding Layer      : Board Outline
-
-
-Used DCodes :
-    D15
-*************************************************************
-
-*************************************************************
 Generating : Top Solder
       File : UZ_PER_loopback_tutorial_Rev01.GTS
 
@@ -137,10 +184,8 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Solder
-      File : UZ_PER_loopback_tutorial_Rev01.GBS
-
-    Adding Layer      : Bottom Solder
+Generating : Bottom Layer
+      File : UZ_PER_loopback_tutorial_Rev01.GBL
 
     Adding Layer      : Bottom Layer
 
@@ -148,43 +193,52 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : UZ_PER_loopback_tutorial_Rev01.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
     D15
-    D16
-    D17
-    D18
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
 *************************************************************
 
 *************************************************************
-Generating : Bottom Overlay
-      File : UZ_PER_loopback_tutorial_Rev01.GBO
+Generating : Bottom Paste
+      File : UZ_PER_loopback_tutorial_Rev01.GBP
 
-    Adding Layer      : Bottom Overlay
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Layer 2
+      File : UZ_PER_loopback_tutorial_Rev01.G1
+
+    Adding Layer      : Layer 2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D46
+    D48
+    D49
+    D51
+    D52
+    D53
+    D54
+    D55
 *************************************************************
 
