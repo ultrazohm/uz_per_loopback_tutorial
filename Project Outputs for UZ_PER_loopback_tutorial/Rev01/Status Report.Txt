@@ -1,12 +1,14 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : PCB Document [UZ_PER_loopback_tutorial.PcbDoc]
-   Generated File[UZ_PER_loopback_tutorial_Rev01.TXT]
-   Generated File[UZ_PER_loopback_tutorial_Rev01.LDP]
-   Generated File[UZ_PER_loopback_tutorial_Rev01.DRR]
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 10:21:31 On 17.08.2022
+
+Output: BOM_JLC
+Type  : BOM
+From  : Variant [[No Variations]] of Project [UZ_PER_loopback_tutorial.PrjPcb]
+   Generated File[BOM_JLC_UZ_PER_loopback_tutorial_[No Variations]_Rev01.xlsx]
 
 
-Files Generated   : 3
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 09:55:05 On 17.08.2022
+Finished Output Generation At 10:21:48 On 17.08.2022

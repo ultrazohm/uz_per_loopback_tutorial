@@ -15,13 +15,13 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=Job Group
+Name=UZ_Outputjob.OutJob
 Description=
-TargetOutputMedium=Gerber_and_Drill_Files
+TargetOutputMedium=BOM_JLC
 VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=OKI B432(PS)
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -217,7 +217,7 @@ OutputName8=Gerber Files
 OutputCategory8=Fabrication
 OutputDocumentPath8=
 OutputVariantName8=
-OutputEnabled8=1
+OutputEnabled8=0
 OutputEnabled8_OutputMedium1=0
 OutputEnabled8_OutputMedium2=0
 OutputEnabled8_OutputMedium3=0
@@ -235,7 +235,7 @@ OutputName9=NC Drill Files
 OutputCategory9=Fabrication
 OutputDocumentPath9=
 OutputVariantName9=
-OutputEnabled9=1
+OutputEnabled9=0
 OutputEnabled9_OutputMedium1=0
 OutputEnabled9_OutputMedium2=0
 OutputEnabled9_OutputMedium3=0
@@ -509,7 +509,7 @@ OutputName13=BOM_JLC
 OutputCategory13=Report
 OutputDocumentPath13=[ActiveBOM Document]
 OutputVariantName13=Standard
-OutputEnabled13=0
+OutputEnabled13=1
 OutputEnabled13_OutputMedium1=0
 OutputEnabled13_OutputMedium2=0
 OutputEnabled13_OutputMedium3=0
@@ -524,7 +524,7 @@ PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 Configuration13_Name1=ColumnNameFormat
 Configuration13_Item1=CaptionAsName
 Configuration13_Name2=General
-Configuration13_Item2=OpenExported=False|AddToProject=True|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=C:\Users\Student\Desktop\Altium\altium_libraries\templates\BOM\BOM_Template_THN_JLCPCB.xlsx|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1602|FormHeight=969|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|UseDirectApi=False|BomSetName=
+Configuration13_Item2=OpenExported=False|AddToProject=True|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=C:\Users\Nina Diringer\repos\altium_libraries\templates\BOM\BOM_Template_THN_JLCPCB.xlsx|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1602|FormHeight=969|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|UseDirectApi=False|BomSetName=
 Configuration13_Name3=GroupOrder
 Configuration13_Item3=Comment=True|MPN=True|Footprint=True
 Configuration13_Name4=OutputConfigurationParameter1
@@ -543,7 +543,7 @@ Configuration13_Item9=Comment=116|Designator=107|Footprint=149|LCSC Part Number=
 [PublishSettings]
 OutputFilePath2=C:\Users\Public\Documents\Altium\Projects\Ordering_Test\Project Outputs for Ordering_Test\
 ReleaseManaged2=1
-OutputBasePath2=Project Outputs for Free Documents
+OutputBasePath2=Project Outputs for UZ_PER_loopback_tutorial
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=
@@ -570,7 +570,7 @@ PDFACompliance2=Disabled
 PDFVersion2=Default
 OutputFilePath3=Project Outputs for Free Documents\ProjectRevision\
 ReleaseManaged3=1
-OutputBasePath3=Project Outputs for Free Documents
+OutputBasePath3=Project Outputs for UZ_PER_loopback_tutorial
 OutputPathMedia3==ProjectRevision
 OutputPathMediaValue3==ProjectRevision
 OutputPathOutputer3=
@@ -597,7 +597,7 @@ PDFACompliance3=Disabled
 PDFVersion3=Default
 OutputFilePath4=C:\Users\Public\Documents\Altium\Projects\Ordering_Test\Project Outputs for Ordering_Test\ProjectRevision\
 ReleaseManaged4=1
-OutputBasePath4=Project Outputs for Free Documents
+OutputBasePath4=Project Outputs for UZ_PER_loopback_tutorial
 OutputPathMedia4==ProjectRevision
 OutputPathMediaValue4==ProjectRevision
 OutputPathOutputer4=
@@ -622,9 +622,9 @@ ShowComponentParameters4=1
 GlobalBookmarks4=0
 PDFACompliance4=Disabled
 PDFVersion4=Default
-OutputFilePath5=Project Outputs for Free Documents\ProjectRevision\
+OutputFilePath5=C:\Users\Nina Diringer\repos\uz_per_loopback_tutorial\Project Outputs for UZ_PER_loopback_tutorial\Rev01\
 ReleaseManaged5=1
-OutputBasePath5=Project Outputs for Free Documents
+OutputBasePath5=Project Outputs for UZ_PER_loopback_tutorial
 OutputPathMedia5==ProjectRevision
 OutputPathMediaValue5==ProjectRevision
 OutputPathOutputer5=[Output Custom]
@@ -637,7 +637,7 @@ OutputFileNameSpecial5=
 OpenOutput5=0
 OutputFilePath6=Project Outputs for Free Documents\
 ReleaseManaged6=1
-OutputBasePath6=Project Outputs for Free Documents
+OutputBasePath6=Project Outputs for UZ_PER_loopback_tutorial
 OutputPathMedia6=
 OutputPathMediaValue6=
 OutputPathOutputer6=[Output Type]
@@ -650,7 +650,7 @@ OutputFileNameSpecial6=
 OpenOutput6=0
 OutputFilePath7=Project Outputs for Free Documents\ProjectRevision\
 ReleaseManaged7=1
-OutputBasePath7=Project Outputs for Free Documents
+OutputBasePath7=Project Outputs for UZ_PER_loopback_tutorial
 OutputPathMedia7==ProjectRevision
 OutputPathMediaValue7==ProjectRevision
 OutputPathOutputer7=[Output Type]
@@ -663,7 +663,7 @@ OutputFileNameSpecial7=
 OpenOutput7=0
 OutputFilePath8=Project Outputs for Free Documents\ProjectRevision\
 ReleaseManaged8=1
-OutputBasePath8=Project Outputs for Free Documents
+OutputBasePath8=Project Outputs for UZ_PER_loopback_tutorial
 OutputPathMedia8=='ProjectRevision'
 OutputPathMediaValue8=='ProjectRevision'
 OutputPathOutputer8=[Output Type]
@@ -676,7 +676,7 @@ OutputFileNameSpecial8=
 OpenOutput8=0
 OutputFilePath9=Project Outputs for Free Documents\ProjectRevision\
 ReleaseManaged9=1
-OutputBasePath9=Project Outputs for Free Documents
+OutputBasePath9=Project Outputs for UZ_PER_loopback_tutorial
 OutputPathMedia9==ProjectRevision
 OutputPathMediaValue9==ProjectRevision
 OutputPathOutputer9=[Output Type]
@@ -695,7 +695,7 @@ RelativeOutputPath3=Project Outputs for Free Documents\ProjectRevision\
 OpenOutputs3=0
 RelativeOutputPath4=C:\Users\Public\Documents\Altium\Projects\Ordering_Test\Project Outputs for Ordering_Test\ProjectRevision\
 OpenOutputs4=0
-RelativeOutputPath5=Project Outputs for Free Documents\ProjectRevision\
+RelativeOutputPath5=C:\Users\Nina Diringer\repos\uz_per_loopback_tutorial\Project Outputs for UZ_PER_loopback_tutorial\Rev01\
 OpenOutputs5=0
 AddToProject5=0
 TimestampFolder5=0
