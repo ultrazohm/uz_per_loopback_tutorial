@@ -1504,3 +1504,6 @@ ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=0|Use
 [SmartPDF]
 PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
+[Parameter Manager Custom Column Order]
+<Schematic>="LCSC Part Number",Color,"Collector Basis Voltage","Collector Emitter Voltage","Component Type",ComponentLink1Description,ComponentLink1URL,Created,"Created from","Created On","Datasheet Link","Device Package","Last Updated","Live Cycle Status",Manufacturer,"Manufacturer Part Number",Manufacturer_Name,Manufacturer_Part_Number,"Mounting Type","Mouser Part Number","Mouser Price/Stock","Number Of Channels","Number of positions","Number of rows","Operating Temperature",PartID,Polarization,"Power Dissipation",Series,"Stock number","Supplier 1","Supplier 2","Supplier Part Number 1","Supplier Part Number 2",Tolerance,Type,Value,"Verified by","Voltage Rating"
+
